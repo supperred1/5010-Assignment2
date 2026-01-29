@@ -45,4 +45,4 @@ function mousePressed(){
     }
   }
 ```
-### hello
+### I need a spherical object resembling an eye that can follow the movement of the mouse. When the mouse is clicked, a glitch-like flickering pattern should appear around the sphere, accompanied by the generation of numerous small spheres.
