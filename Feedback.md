@@ -1,6 +1,6 @@
-#Feedback
-##Yidi Liu:
-###//Instructions I think for the image:
+# Feedback
+## Yidi Liu:
+### //Instructions I think for the image:
 //1.Change background color based on mouse position
 //2. Change Background Color
 //3. Draw the biggest circle (the one which not following the mouse)
