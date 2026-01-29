@@ -1,6 +1,7 @@
 # 5010-Assignment2
 
-function setup() {
+```p5js
+def function setup() {
   createCanvas(400, 400);
 }
 
